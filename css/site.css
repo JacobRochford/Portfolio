@@ -173,6 +173,9 @@ footer {
 .invert > div > h2{
     color: #fff;
 }
+.highlight > div {
+    flex-grow: 1;
+}
 
 .highlight > img {
     max-width: 50%;
