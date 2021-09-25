@@ -1,17 +1,20 @@
 [
     {
-        "id": "",
         "title": "Kids Sports Website",
         "smallImage": "img/KidsSportsWebsite.png",
         "smallImageAlt": "Shows off website for kids sports that has two kids playing on the front.",
         "largeImage": "img/KidsSportsWebsiteFull.jpg",
         "largeImageAlt": "Shows off website for kids sports with multiple views.",
         "projectText": "Project #1 text Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam provident enim obcaecati voluptatem deleniti iusto accusantium temporibus natus, deserunt dignissimos numquam dolorem maxime officiis cumque minima earum ipsa eum distinctio?",
-        "technologiesList": ["HTML", "CSS", "JavaScript", "C#"],
+        "technologiesList": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "C#"
+        ],
         "challengesText": "Challenges #1 text Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam provident enim obcaecati voluptatem deleniti iusto accusantium temporibus natus, deserunt dignissimos numquam dolorem maxime officiis cumque minima earum ipsa eum distinctio?"
     },
     {
-        "id": "",
         "title": "Pet Adoption Campaign",
         "smallImage": "img/PetAdoptionCampaign.png",
         "smallImageAlt": "Shows off print pieces asking people to adopt pets instead of shopping for them.",
@@ -22,7 +25,6 @@
         "challengesText": "Challenges #2 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni."
     },
     {
-        "id": "",
         "title": "Pub Website",
         "smallImage": "img/PubWebsite.png",
         "smallImageAlt": "Shows off a website for a pub which has pictures of pizza and pizza-making.",
@@ -31,5 +33,19 @@
         "projectText": "Project #3 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni.",
         "technologiesList": ["HTML", "CSS", "JavaScript", "LocalStorage"],
         "challengesText": "Challenges #3 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni."
+    },
+    {
+        "title": "Feast Restaurant Site",
+        "smallImage": "img/feastImageLarge.png",
+        "smallImageAlt": "Shows off a a website for a food joint restaurant in San Diego.",
+        "largeImage": "img/feastImage.png",
+        "largeImageAlt": "Shows off a restaurant website including information about the restaurant, chef and the location.",
+        "projectText": "Project #4 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni.",
+        "technologiesList": [
+            "HTML",
+            "CSS",
+            "LocalStorage"
+        ],
+        "challengesText": "Challenges #4 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni."
     }
 ]
