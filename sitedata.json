@@ -21,7 +21,13 @@
         "largeImage": "img/PetAdoptionCampaignFull.jpg",
         "largeImageAlt": "Shows multiple print pieces asking people to adopt pets instead of shopping for them.",
         "projectText": "Project #2 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni.",
-        "technologiesList": ["HTML", "CSS", "JavaScript", "SQL", "C#"],
+        "technologiesList": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL",
+            "C#"
+        ],
         "challengesText": "Challenges #2 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni."
     },
     {
@@ -31,7 +37,12 @@
         "largeImage": "img/PubWebsiteFUll.jpg",
         "largeImageAlt": "Shows off a mobile and desktop version of a pub website which has pictures of pizza and pizza-making.",
         "projectText": "Project #3 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni.",
-        "technologiesList": ["HTML", "CSS", "JavaScript", "LocalStorage"],
+        "technologiesList": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "LocalStorage"
+        ],
         "challengesText": "Challenges #3 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam assumenda vel numquam soluta provident explicabo fuga nobis tempora molestias debitis? Exercitationem, ratione provident! Error rerum voluptates quia assumenda alias magni."
     },
     {
