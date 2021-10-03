@@ -286,3 +286,49 @@ footer {
     font-size: 28px;
   }
 }
+
+@media print {
+    *,
+    *::before,
+    *::after {
+        background: #fff !important;
+        color: #000 !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+        
+    }
+    html {
+        font-size: 16px;
+    }
+
+    header, footer {
+        display: none;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+    @page {
+        margin: 1in;
+        size: letter portrait;
+    }
+
+    #work-item-image {
+        align-content: center;
+        max-height: 310px;
+        width: auto;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a[href]::after {
+        content: " (" attr(href) ")";
+    }
+
+}
